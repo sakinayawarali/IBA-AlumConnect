@@ -1,4 +1,4 @@
-# devproj
+# AlumConnect
 
 A new Flutter project.
 
