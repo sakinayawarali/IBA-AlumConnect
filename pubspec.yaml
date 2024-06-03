@@ -43,17 +43,40 @@ dependencies:
   connectivity: ^3.0.6
   curved_navigation_bar: ^1.0.3
   floating_action_bubble: ^1.1.4
+  flutter_riverpod: ^2.5.1
+  dio: ^5.4.3+1
+  skeletonizer: ^1.2.0
+  dash_chat_2: 0.0.20
+  firebase_analytics: ^10.10.7
+  flutter_local_notifications: ^17.1.2
+  delightful_toast: ^1.1.0
+  get_it: ^7.7.0
+  image_picker: ^1.1.2
+  url_launcher: ^6.0.20
+  path: ^1.9.0
+  shared_preferences: ^2.2.3
+  firebase_storage: ^11.7.7
+  table_calendar: 3.0.9
+  carousel_slider: ^4.2.1
+  sidebar_bigeagle: ^0.2.2+1
+  tbib_splash_screen: ^1.0.0
+  animated_text_kit: ^4.2.2
+  animated_notch_bottom_bar: ^1.0.3
+  flashy_tab_bar2: ^0.0.10
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  mockito: ^5.4.4
+  build_runner: ^2.4.9
+  flutter_lints: ^4.0.0
 
-  # The "flutter_lints" package below contains a set of recommended lints to
-  # encourage good coding practices. The lint set provided by the package is
-  # activated in the `analysis_options.yaml` file located at the root of your
-  # package. See that file for information about deactivating specific lint
-  # rules and activating additional ones.
-  flutter_lints: ^3.0.0
+# The "flutter_lints" package below contains a set of recommended lints to
+# encourage good coding practices. The lint set provided by the package is
+# activated in the `analysis_options.yaml` file located at the root of your
+# package. See that file for information about deactivating specific lint
+# rules and activating additional ones.
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -71,6 +94,10 @@ flutter:
     - 'assets/logos/alumconnect-favicon-black.png'
     - 'assets/icons/74-College-graduation (3).png'
     - 'assets/icons/download.png'
+    - 'assets/icons/google_logo.png'
+    - 'assets/icons/61-Message-sent.png'
+    - 'assets/logos/alumconnect-high-resolution-logo-transparent.png'
+    - 'assets/icons/28468.png'
 
   fonts:
     - family: Helvetica
